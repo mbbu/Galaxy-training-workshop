@@ -20,21 +20,21 @@ The workshop participant should acquire the following skills;
 5.	Be able to understand how to run their 16s data on Galaxy.
 
 ## Instructors
-•	Dr. Caleb Kibet
-•	Andrew Espira
-•	Ruth Nanjala
-•	Pauline Karega
-•	Nehemiah Ongeso
-•	Dr. Jandouwe Villinger
+- Dr. Caleb Kibet
+- Andrew Espira
+- Ruth Nanjala
+- Pauline Karega
+- Nehemiah Ongeso
+- Dr. Jandouwe Villinger
 
 ## Who should attend?
 This training targets students and researchers within icipe who are working with metagenomics data. Come with your data.
 Training Topics
-•	Introduction to Bioinformatics
-•	Introduction to genomics 
-•	Introduction to HPC and best practices for using the HPC
-•	Introduction to Galaxy
-•	Analysing 16s data on Galaxy
+- Introduction to Bioinformatics
+- Introduction to genomics 
+- Introduction to HPC and best practices for using the HPC
+- Introduction to Galaxy
+- Analysing 16s data on Galaxy
 
 Application Open: **6th June 2022**  
 Application Deadline: **10th June 2022** 
