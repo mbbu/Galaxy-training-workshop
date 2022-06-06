@@ -38,5 +38,6 @@ Training Topics
 
 Application Open: **6th June 2022**  
 Application Deadline: **10th June 2022** 
+
 Kindly fill in the attached form to express your interest.
 
