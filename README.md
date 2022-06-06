@@ -27,14 +27,16 @@ The workshop participant should acquire the following skills;
 - Nehemiah Ongeso
 - Dr. Jandouwe Villinger
 
-## Who should attend?
-This training targets students and researchers within icipe who are working with metagenomics data. Come with your data.
-Training Topics
+## Training Topics
 - Introduction to Bioinformatics
 - Introduction to genomics 
 - Introduction to HPC and best practices for using the HPC
 - Introduction to Galaxy
 - Analysing 16s data on Galaxy
+- Introduction to Phylogenetics using `Geneious`
+
+## Who should attend?
+This training targets students and researchers within icipe who are working with metagenomics data. Come with your data.
 
 Application Open: **6th June 2022**  
 Application Deadline: **10th June 2022** 
