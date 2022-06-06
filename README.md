@@ -1,10 +1,10 @@
 # Galaxy training course for metagenomics analysis
-Date: 18th -22nd April (tentative)
-Time: 9:30 am – 4:00pm
-Venue: Vivarium
-Capacity: 20 participants
-Target: Scientists working with metagenomics data
-Website: The resources used in this training are – or will be – available on this GitHub Repo.
+- Date: 20th - 24th June 2022
+- Time: 9:30 am – 4:00pm
+- Venue: Bee Hive
+- Capacity: 20 participants
+- Target: Scientists working with metagenomics data
+- Website: The resources used in this training are – or will be – available on this GitHub Repo.
 
 ## Introduction
 Metagenomics is a field that allows scientists to analyze the genomes of uncultured microbes. Information about microorganisms in the environment can be extracted using two main approaches in metagenomics: amplicon sequencing, which sequences only the rRNA or ribosomal DNA of organisms, and shotgun sequencing, which sequences the entire genomes of the microbes in the environment. Amplicon sequencing is a method for detecting genetic variation in specific genomic areas that is highly focused. Amplicon sequencing is a term used in the metagenomics area to describe the acquisition and sequencing of rRNA data in a sample. For bacteria and archea, it's 16S, and for eukaryotes, it's 18S. Full genomes of microorganisms in the environment are sequenced using shotgun data (not only 16S or 18S).
@@ -35,3 +35,8 @@ Training Topics
 •	Introduction to HPC and best practices for using the HPC
 •	Introduction to Galaxy
 •	Analysing 16s data on Galaxy
+
+Application Open: **6th June 2022**  
+Application Deadline: **10th June 2022** 
+Kindly fill in the attached form to express your interest.
+
