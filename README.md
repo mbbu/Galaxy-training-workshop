@@ -1,7 +1,7 @@
 # Galaxy training course for metagenomics analysis
 - Date: 20th - 24th June 2022
 - Time: 9:30 am – 4:00pm
-- Venue: Bee Hive
+- Venue: Hive
 - Capacity: 20 participants
 - Target: Scientists working with metagenomics data
 - Website: The resources used in this training are – or will be – available on this GitHub Repo.
