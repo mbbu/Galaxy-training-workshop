@@ -18,6 +18,7 @@ The workshop participant should acquire the following skills;
 3.	Be able to understand the different omics field.
 4.	Be able to run analysis on Galaxy.
 5.	Be able to understand how to run their 16s data on Galaxy.
+6.	Be able to use Geneious for sequence analysis and phylogeny
 
 ## Instructors
 - Dr. Caleb Kibet
