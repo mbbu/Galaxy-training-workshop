@@ -41,5 +41,5 @@ This training targets students and researchers within icipe who are working with
 Application Open: **6th June 2022**  
 Application Deadline: **10th June 2022** 
 
-Kindly fill in the attached form to express your interest.
+Kindly fill in the [attached form](https://redcap.icipe.org/surveys/?s=JNNHEWATT8XY9JKT) to express your interest.
 
