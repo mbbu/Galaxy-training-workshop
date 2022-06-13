@@ -3,7 +3,7 @@
 - Time: 9:30 am – 4:00pm
 - Venue: Hive
 - Capacity: 20 participants
-- Target: Scientists working with metagenomics data
+- Target: Scientists working with metagenomics data within ICIPE
 - Website: The resources used in this training are – or will be – available on this GitHub Repo.
 
 ## Introduction
@@ -39,5 +39,5 @@ The workshop participant should acquire the following skills;
 ## Who should attend?
 This training targets students and researchers within icipe who are working with metagenomics data. Come with your data.
 
-Kindly fill in the [attached form](https://redcap.icipe.org/surveys/?s=JNNHEWATT8XY9JKT) to express your interest.
+Kindly fill in the [this form](https://redcap.icipe.org/surveys/?s=JNNHEWATT8XY9JKT) to express your interest.
 
