@@ -3,7 +3,7 @@
 - Time: 9:30 am – 4:00pm
 - Venue: Hive
 - Capacity: 20 participants
-- Target: Scientists working with metagenomics data within ICIPE
+- Target: Students and Researchers working with metagenomics data within ICIPE
 - Website: The resources used in this training are – or will be – available on this GitHub Repo.
 
 ## Introduction
