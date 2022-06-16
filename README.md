@@ -1,6 +1,6 @@
 # Galaxy training course for metagenomics analysis
 - Date: 20th - 24th June 2022
-- Time: 9:30 am – 4:00pm
+- Time: 9:00 am – 4:00pm
 - Venue: Hive
 - Capacity: 20 participants
 - Target: Students and Researchers working with metagenomics data within ICIPE
@@ -40,4 +40,6 @@ The workshop participant should acquire the following skills;
 This training targets students and researchers within icipe who are working with metagenomics data. Come with your data.
 
 Kindly fill in the [this form](https://redcap.icipe.org/surveys/?s=JNNHEWATT8XY9JKT) to express your interest.
+
+The **schedule** and the **training materials** are attached in the link attached: [Schedule](https://docs.google.com/spreadsheets/d/1lcz3CKg40klSZd_4xLTzd2qogr5w4jMH36sU5_1FxIE/edit#gid=0)
 
